@@ -1,0 +1,4 @@
+#Wed Nov 13 17:58:40 CET 2019
+base.0=C\:\\Users\\m.allibert\\Documents\\GitHub\\androprojets\\App_1\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
